@@ -15,3 +15,6 @@ trac1r7hyxdlmk2qmfqkywje6mnyylywzx7kx9ml9d7prucwyl2ngxaash47mdj
 - **Orderbook Management:** Real-time tracking of pending and filled orders.
 - **Termux Optimized:** Runs smoothly on mobile devices via Termux or GitHub Codespaces.
 
+## 📸 Proof of Work
+
+![Bot Execution Proof](./proof.jpg)
